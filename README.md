@@ -37,34 +37,34 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 ² Lezioni video
 
 ## Link ai progetti
-- Aktas Tuana https://github.com/ 
-- Baggi Alice
-- Balinzo Giada
-- Belli Nahele Armando Bruno
-- Bionda Alissa
-- Borges Pinheiro Gabriel
-- Broggini Melissa
-- Calì Yanis
-- Ceppi Claudio
+- [Aktas Tuana](https://github.com/Tuana-Aktas/gim)
+- [Baggi Alice](https://github.com/alicebaggi/GIM)
+- [Balinzo Giada](https://github.com/giada-balinzo/gim)
+- [Belli Nahele Armando Bruno](https://github.com/Naheleee/GIM)
+- [Bionda Alissa](https://github.com/Ali-0032/gim)
+- [Borges Pinheiro Gabriel](https://github.com/Gabri-200300)
+- [Broggini Melissa](https://github.com/melissabroggini/gim)
+- [Calì Yanis](https://github.com/Nysaai/gim)
+- [Ceppi Claudio](https://github.com/Claudio-Ceppi/gim)
 - Chicherio Michelle
-- De Gennaro Carla
-- Del Rosso Allegra Maria Cristina
+- [De Gennaro Carla](https://github.com/carladegennaro/gim)
+- [Del Rosso Allegra Maria Cristina](https://github.com/AllegraDR/gim)
 - Esposito Albina
-- Falcone Daniele
-- Guante Henriquez Elisabeth
-- Hess Lorenzo
-- Jean-Richard Sophie
-- Lopopolo Greta
-- Maghetti Simone
+- [Falcone Daniele](https://github.com/Dadiccs/gim)
+- [Guante Henriquez Elisabeth](https://github.com/gnteli/gim)
+- [Hess Lorenzo](https://github.com/l0renz0hess/gim)
+- [Jean-Richard Sophie](https://github.com/AstroPengu/gim)
+- [Lopopolo Greta](https://github.com/gretalopopolo/gim)
+- [Maghetti Simone](https://github.com/simonemaghetti)
 - Massarotti Emma
-- Mazzola Luca
+- [Mazzola Luca](https://github.com/LucaMazzolaa/gim)
 - Mu Debora
-- Pantani Laura
+- [Pantani Laura](https://github.com/Laura-pantani/gim)
 - Pini Elisa
-- Previtali Lara
-- Ribeiro Marques Sofia
-- Riva Gregorio
+- [Previtali Lara](https://github.com/LaraPrevitali/gim)
+- [Ribeiro Marques Sofia](https://github.com/SofiaRibeiroMarques/gim)
+- [Riva Gregorio](https://github.com/GregorioRiva/gim)
 - Salmina Arroyo Deborah Mersedes
 - Vigizzi Sira
-- Vosti Riccardo
-- Zemp Martina
+- [Vosti Riccardo](https://github.com/RiccardoVosti/gim)
+- [Zemp Martina](https://github.com/martinazemp/gim)
